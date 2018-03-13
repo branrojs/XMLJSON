@@ -1,0 +1,19 @@
+{
+  "InformaciónGeneral": {
+    "Cedula": 901110695,
+    "Nombre": "Andres Duran Vega\r",
+    "Dirección": "200mts oeste del Colegio Miravalle\r",
+    "CorreoELectrónico": null,
+    "Teléfono": 89170118
+  },
+  "Educación": {
+    "Lugar": "Colegio Universitario de Cartago\r",
+    "Carrera": "Tecnologias de la Informacion\r",
+    "AñodeGraduación": 2017
+  },
+  "Experiencia": {
+    "Lugar": "Ninguno\r",
+    "Cargo": "Ninguno\r",
+    "TiempodeServicio": "0 \r"
+  }
+}

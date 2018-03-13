@@ -1,0 +1,11 @@
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\bin\Debug\json to csharp.exe.config
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\bin\Debug\json to csharp.exe
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\bin\Debug\json to csharp.pdb
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\obj\Debug\json to csharp.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\obj\Debug\json_to_csharp.Properties.Resources.resources
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\obj\Debug\json to csharp.csproj.GenerateResource.Cache
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\obj\Debug\json to csharp.exe
+c:\users\andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\obj\Debug\json to csharp.pdb
+C:\Users\Andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andres\documents\visual studio 2013\Projects\json to csharp\json to csharp\obj\Debug\json_to_csharp.Convertidor.resources

@@ -1,0 +1,22 @@
+Informacion General
+	Nombre : Esteban Enrique Granados Leiton
+	Cedula : 304750450
+	Direccion : Cartago
+	Correo Electronico : estgralei93@outlook.com
+	Telefono : 60368639
+Educacion
+	Universitario
+		Lugar : Escuela Los Angeles
+		Titulo : Educacion Basica Finalizada
+		tiempo trabajado : 2002 a 2007
+Experiencia
+	Lugar : Colegio Universitario de Cartago
+	Cargo : Asistente de laboratorio
+	Tiempo Servido : Un mes
+	Lugar : Tec
+	Cargo : investigador 
+	Tiempo Servido : 2007 a 2008
+	Lugar : Disenos e impresiones gandl 
+	Cargo : disenador
+	Tiempo Servido : actualmente
+	

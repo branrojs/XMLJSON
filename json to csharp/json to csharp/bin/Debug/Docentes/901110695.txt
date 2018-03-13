@@ -1,0 +1,18 @@
+
+Informacion General
+Cedula:901110695
+Nombre:Andres Duran Vega
+Direccion:200mts oeste del Colegio Miravalle
+Correo Electronico:andresduran1710@gmail.com
+Telefono:89170118
+
+Educacion
+Lugar:Colegio Universitario de Cartago
+Carrera:Tecnologias de la Informacion
+Año de Graduacion:2017
+
+Experiencia
+Lugar:Ninguno
+Cargo:Ninguno
+Tiempo de Servicio:0 
+
